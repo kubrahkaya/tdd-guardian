@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guardian Viewer</string>
+    <string name="news_list_error">Unable to show news articles</string>
+</resources>
